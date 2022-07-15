@@ -1,2 +1,2 @@
-# demo-activity
+# demo_activity
 just for demo
